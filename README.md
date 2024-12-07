@@ -14,7 +14,6 @@ This project focuses on analyzing a dataset of video games, exploring various as
   - [Data Cleaning](#data-cleaning)
   - [Data Analysis](#data-analysis)
   - [Visualization](#visualization)
-- [License](#license)
 - [Contributors](#contributors)
 
 ## Project Overview
