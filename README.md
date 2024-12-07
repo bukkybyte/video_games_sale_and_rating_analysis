@@ -1,7 +1,3 @@
-Got it! Here's an updated version of the **README.md** that reflects your broader work process, including steps like data upload, exploration, cleaning, analysis, and visualization:
-
----
-
 # Video Game Data Analysis
 
 This project focuses on analyzing a dataset of video games, exploring various aspects such as **Critic Scores**, **User Scores**, **Sales by Region**, and more. The goal is to clean, explore, and analyze the data to uncover insights, patterns, and trends within the video game industry. Additionally, visualizations are created to make the findings easier to interpret.
